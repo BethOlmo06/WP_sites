@@ -97,6 +97,7 @@
     <Content Include="IMG\TDY960x934.png" />
     <Content Include="IMG\TDYhome_960x540.png" />
     <Content Include="IMG\TDYJobs_300x225.png" />
+    <Content Include="IMG\WPMiniSite150.png" />
     <Content Include="JS\bootstrap.bundle.js" />
     <Content Include="JS\jquery.js" />
     <Content Include="tdy.html" />
